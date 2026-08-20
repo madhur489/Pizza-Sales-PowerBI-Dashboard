@@ -50,7 +50,7 @@ SQL-based data exploration, Power BI data modeling, DAX (RANKX, cumulative measu
 
 ## 🔗 Related Project
 SQL queries for this analysis are in a separate repo.
-➡️ **Pizza Sales SQL Analysis** *(link-to-your-sql-repo)*
+➡️ **Pizza Sales SQL Analysis** *[(link-to-your-sql-repo)](https://github.com/madhur489/Pizza-Sales-SQL-Analysis)*
 
 ---
 
