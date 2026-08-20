@@ -39,7 +39,7 @@ Pizza sales dataset with four related tables: Orders, Order Details, Pizzas, Piz
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](link-to-your-screenshot.png)
+![Dashboard Overview](OVERVIEW.png)
 
 ---
 
